@@ -19,7 +19,7 @@
   display: none;
 }
 .debug-hidden {
-  visibility: hidden !important;
+  visibility: visible !important;
 }
 .unselectable {
   -webkit-touch-callout: none;
